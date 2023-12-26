@@ -8,7 +8,6 @@ Before running the script, ensure you have the following:
 
 - [Apache Spark](https://spark.apache.org/downloads.html) installed
 - [MySQL](https://dev.mysql.com/downloads/) installed and running
-- Python dependencies installed (you can install them using `pip install -r requirements.txt`)
 
 ## Setup
 
